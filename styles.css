@@ -95,7 +95,8 @@ p{
 	height: 10px;
 	width: 50px;
 	margin-right: 65%;
-	margin-bottom: 2%;
+	margin-left: 2%;
+	margin-bottom: 1%;
 	filter: contrast(80%);
 }
 
@@ -308,10 +309,10 @@ p{
 		top: 110%;
 		height: 10px;
 		width: 50px;
-		margin-right: 25%;
+		margin-right: 11%;
+		margin-left: 2%;
 		margin-top: 1%;
 		margin-bottom: 2%;
-		filter: contrast(80%);
 		
 	}
 
