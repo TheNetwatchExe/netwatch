@@ -97,7 +97,7 @@ p{
 	margin-right: 65%;
 	margin-left: 2%;
 	margin-bottom: 1%;
-	filter: contrast(80%);
+	filter: contrast(0%);
 }
 
 .navbar_items ul{
