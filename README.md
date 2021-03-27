@@ -8,18 +8,20 @@
 Greetings, 
 We have named our Project as **"Netwatch"** which is basically a cyber security technology provider project. 
 Aimed at empowering lives of people to fight against the greatest challenge of the digital age - cybercrime , by various means like spreading awareness through social media platforms to reach the masses and by providing customer oriented services. 
+
 *The main features of our project are :-*
-• to provide consultation  to cyber attack victims.
-• to provide Anti ransomware services to decrypt infected data
-•to  provide custom-tailored Data Recovery services 
-• to provide high end security solutions ranging and network security devices.
+
+- To provide consultation  to cyber attack victims.
+- To provide Anti ransomware services to decrypt infected data
+- To provide custom-tailored Data Recovery services 
+- To provide high end security solutions ranging and network security devices.
 
 
 ### Known bugs
 
  - In "Our services" webpage, text may collaps only on SOME MOBILE
    DEVICES, *not on pc*.
-  - On 1080p screens it is advised to view website on 125% zoom. On 768p screens no need to do anything.
+ - On 1080p screens it is advised to view website on 125% zoom. On 768p screens no need to do anything.
 
 ### Programming languages used
 - HTML
@@ -32,8 +34,8 @@ Aimed at empowering lives of people to fight against the greatest challenge of t
     not possible to designe a whole forum and blog systemm(without
     wordpress), that's why we're taking the use of subreddit, but the
     original website will contain a custom made forum service.
-  2. On the services page, if you want to get the service you need to fill a "Google form".
-   3. *We have tried "HEROKU" (we were not familiar with it, we were trying it first time) but some of the backend things were not working properly on that and some webpages were not loading  properly, hence we end up hosting it on netlify.*
+ 2. On the services page, if you want to get the service you need to fill a "Google form".
+ 3. *We have tried "HEROKU" (but we were not familiar with it, we were trying it first time) but some of the backend things were not working properly on that and some webpages were not loading  properly, hence we end up hosting it on netlify.*
 
 
 ### *DIRECTIONS* -
