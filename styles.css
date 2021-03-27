@@ -77,7 +77,6 @@ p{
 
 .main_container{
 	position: relative;
-	width: 600px;
 }
 
 /* Navigation Bar */
@@ -302,6 +301,11 @@ p{
 	.navbar{
 		height: auto;
 		flex-direction: column;
+	}
+	
+	.main_container{
+	position: relative;
+	width: 500px;
 	}
 
 	.logo{
