@@ -1,5 +1,5 @@
 # Welcome to Netwatch!
-![](https://i.ibb.co/1XQ7cxD/logo.png =75x75)
+![logo](https://user-images.githubusercontent.com/81359857/112721580-9ff58c00-8f2a-11eb-8f03-64e4f166565c.png)
 [*Website link*](https://thenetwatch.netlify.app/)
 
 Greetings, 
