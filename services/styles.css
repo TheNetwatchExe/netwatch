@@ -227,10 +227,10 @@ img{
 @media screen and (max-width: 600px){
 
     .left{
-        font-size: xx-large;
+        font-size: 20px;
         position: absolute;
         top: 10%;
-        left: 20%;
+        left: 30%;
         color: gray;
     }
 
@@ -239,7 +239,7 @@ img{
         top: 25%;
         left: 1%;
         padding: 3% 5%;
-        font-size: 20px;
+        font-size: 15px;
         color: rgb(82, 82, 82);
         text-align: justify;
         font-weight: 600;
